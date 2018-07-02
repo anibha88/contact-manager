@@ -7,4 +7,7 @@ class ContactsController < ApplicationController
   		@contacts = Contact.page(params[:page])
   	end
   end
+
+  def new
+  end
 end
