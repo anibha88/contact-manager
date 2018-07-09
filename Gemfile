@@ -32,6 +32,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'kaminari', '~> 1.1', '>= 1.1.1'
 
 gem 'paperclip', '~> 6.0'
+gem 'jasny-bootstrap-rails', '~> 3.1', '>= 3.1.3'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
