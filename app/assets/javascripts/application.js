@@ -12,5 +12,6 @@
 //
 //= require rails-ujs
 //= require bootstrap-sprockets
+//= require jasny-bootstrap.min
 //= require turbolinks
 //= require_tree .
